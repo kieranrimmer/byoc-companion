@@ -17,3 +17,12 @@
 
 ---
 
+
+---
+
+![Register assembled stage 1](./register_assembled_stage_01.png "Register assembled stage 1.")
+
+**Figure 2**: Register assembled stage 1.
+
+---
+
