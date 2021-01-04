@@ -30,3 +30,9 @@
 
 ---
 
+![Testing rig for single register](./testing_rig_single_register.png "Testing rig for single register.")
+
+**Figure 4**: Testing rig for single register.
+
+---
+
